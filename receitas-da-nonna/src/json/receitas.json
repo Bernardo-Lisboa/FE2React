@@ -42,7 +42,8 @@
                 "Adicione o salmão, o alho e os pinolis à assadeira.",
                 "Asse por 15 minutos.",
                 "Retire do forno. Adicione a alface e sirva."
-            ]
+            ],
+            "imagem": "https://www.mareriopescados.com.br/uploads/receitas/287b871f2da83efd4b7f6eaa8185823e.webp"
         },
         {
             "id": 2,
@@ -78,7 +79,8 @@
                 "Grelhe o peixe até que esteja completamente cozido.",
                 "Coloque o peixe sobre as 3 tortilhas.",
                 "Cubra com alface, tomates e queijo."
-            ]
+            ],
+            "imagem": "https://www.pingodoce.pt/wp-content/uploads/2019/03/tacos-de-peixe.avif"
         }
     ]
 }

@@ -14,6 +14,7 @@ const Corpo = () => {
         key={uuidv4()}
         id={receita.id}
         nome={receita.nome}
+        imagem={receita.imagem}
         ingredientes={receita.ingredientes}
         instrucoes={receita.instrucoes}
         aoApagar={apagaReceita}
